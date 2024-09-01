@@ -5,7 +5,7 @@ This is a sheepit manager, meant to help you manage multiple clients in sheepit.
 
 ## Features
 - **Auto-restart**: Automatically restarts the SheepIt client if it stops running.
-- **Central Management**: Manage all your SheepIt clients from one central location.
+- **Central Management**: Manage all your SheepIt clients from one central device.
 - **Discord Integration**: Get notifications on Discord if the client crashes, shuts off, or encounters issues.
 
 ## Requirements
