@@ -11,7 +11,7 @@ This is a sheepit manager, meant to help you manage multiple clients in sheepit.
 ## Requirements
 - Windows or Linux (may work on macOS, untested)
 - Python 3.x
-- [SheepIt client](https://www.sheepit-renderfarm.com/getstarted)
+- Java 11.0.6+
 
 ## Installation
 1. Download the latest version of the [SheepIt Manager](https://github.com/KoolKid6958/Sheepit-Manager/releases/latest).
