@@ -1,19 +1,23 @@
-# Sheepit-Manager
-This is a sheepit manager, meant to help you manage multiple clients in sheepit.
+# SheepIt Manager
 
-**Important:** This project is not created by the developers of SheepIt and is not affiliated with or endorsed by the SheepIt development team.
+**Overview:**  
+SheepIt Manager helps you efficiently manage multiple SheepIt clients.
+
+**Note:** This project is independent and not affiliated with or endorsed by the SheepIt development team.
 
 ## Features
-- **Auto-restart**: Automatically restarts the SheepIt client if it stops running.
-- **Central Management**: Manage all your SheepIt clients from one central device.
-- **Discord Integration**: Get notifications on Discord if the client crashes, shuts off, or encounters issues.
+- **Auto-Restart:** Automatically restarts SheepIt clients if they stop running.
+- **Central Management:** Control all your SheepIt clients from a single device.
+- **Discord Integration:** Receive notifications on Discord if a client crashes, shuts down, or encounters issues.
 
 ## Requirements
-- Windows or Linux (may work on macOS, untested)
-- Python 3.x
-- Java 11.0.6+
+- **Operating System:** Windows or Linux (macOS support is untested)
+- **Python:** Version 3.x
+- **Java:** Version 11.0.6 or newer
 
 ## Installation
-1. Download the latest version of the [SheepIt Manager](https://github.com/KoolKid6958/Sheepit-Manager/releases/latest).
-2. Run the `.bat` file for Windows or the `.sh` file for Linux.
-3. Configure the settings to suit your needs.
+1. **Download** the latest version of SheepIt Manager from the [releases page](https://github.com/KoolKid6958/Sheepit-Manager/releases/latest). You can choose the pyembed version if you prefer not to install Python on your system (Windows only).
+2. **Run** the installation script:
+   - For Windows: Use the `.bat` file.
+   - For Linux: Use the `.sh` file.
+3. **Configure** the settings to match your preferences.
